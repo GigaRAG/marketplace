@@ -7,7 +7,7 @@ This repository is the plugin marketplace Claude Code installs from. It holds a 
 ## Install
 
 ```
-claude plugin marketplace add gigarag/marketplace
+claude plugin marketplace add GigaRAG/marketplace
 claude plugin install gigarag@gigarag --scope user
 ```
 
