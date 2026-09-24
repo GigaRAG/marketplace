@@ -1,0 +1,13 @@
+{
+  "name": "gigarag",
+  "owner": { "name": "GigaRAG", "url": "https://gigarag.com" },
+  "metadata": { "description": "Plugins that connect Claude Code to your GigaRAG knowledge base." },
+  "plugins": [
+    {
+      "name": "gigarag",
+      "source": { "source": "npm", "package": "gigarag-claude-code" },
+      "description": "Your GigaRAG knowledge base inside Claude Code: index a codebase, save decisions, recall them later.",
+      "homepage": "https://gigarag.com/connect/claude-code"
+    }
+  ]
+}
